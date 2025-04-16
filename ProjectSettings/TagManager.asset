@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Boundary
   - Enemy
+  - test
+  - Jump
+  - Speed
+  - shieid
+  - Obstacle
   layers:
   - Default
   - TransparentFX
